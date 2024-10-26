@@ -1,6 +1,8 @@
 # Hi 👋, I'm Ayoub
 I'm a full-stack developer based in Morocco.
-![Visitors](https://komarev.com/ghpvc/?username=AyoubGharrafi&color=green)
+### Visitors: 🖥️
+![Visitors](https://komarev.com/ghpvc/?username=Ayoub-gharrafi&color=green&style=flat-square)
+
 
 🌱 I’m currently learning Web Development and Data Science.
 📫 How to reach me: ayoubgharrafi4@gmail.com
