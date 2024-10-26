@@ -8,7 +8,7 @@
 </div>
 
 <div style="text-align: center; font-size: 18px;">
-  📫 How to reach me: ayoubgharrafi4@gmail.com
+  📫 How to reach me: gharrafiayoub4@gmail.com
 </div>
 
 ### Tech Stack:
