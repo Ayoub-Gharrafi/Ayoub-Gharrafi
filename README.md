@@ -2,9 +2,6 @@
   <h1>Hi 👋, I'm Ayoub</h1>
 </div>
 
-<div style="text-align: center;">
-  ![Visitors](https://komarev.com/ghpvc/?username=AyoubGharrafi&color=green)
-</div>
 
 <div style="text-align: center; font-size: 18px;">
   🌱 I’m currently learning Web Development and Data Science.
