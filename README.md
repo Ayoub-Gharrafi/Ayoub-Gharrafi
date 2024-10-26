@@ -1,11 +1,19 @@
-# Hi 👋, I'm Ayoub
-I'm a full-stack developer based in Morocco.
-### Visitors: 🖥️
-![Visitors](https://komarev.com/ghpvc/?username=Ayoub-gharrafi&color=green&style=flat-square)
+<div style="text-align: center; font-size: 24px;">
+  <h1>Hi 👋, I'm Ayoub</h1>
+</div>
 
+<div style="text-align: center;">
+  ![Visitors](https://komarev.com/ghpvc/?username=AyoubGharrafi&color=green)
+</div>
 
-🌱 I’m currently learning Web Development and Data Science.
-📫 How to reach me: ayoubgharrafi4@gmail.com
+<div style="text-align: center; font-size: 18px;">
+  🌱 I’m currently learning Web Development and Data Science.
+</div>
+
+<div style="text-align: center; font-size: 18px;">
+  📫 How to reach me: ayoubgharrafi4@gmail.com
+</div>
+
 ### Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
